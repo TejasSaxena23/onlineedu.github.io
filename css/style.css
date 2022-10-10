@@ -434,7 +434,7 @@ section{
 
 #preloader{
    background: no-repeat center center;
-   background-image: url(/MernStack700Aug19/Tejas/onlineeducation/desgin/images/loading.gif);
+   background-image: url(../images/loading.gif);
    background-size: 50%;
    background-color: #0a0a0a;
    height: 100vh;
